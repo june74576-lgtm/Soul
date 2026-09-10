@@ -1,7 +1,7 @@
 # Soul
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/tu-usuario/soul/main/logo.svg" alt="Soul" width="120" />
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 200 200'%3E%3Ccircle cx='85' cy='115' r='45' fill='none' stroke='%234B0082' stroke-width='10'/%3E%3Ccircle cx='115' cy='85' r='45' fill='none' stroke='%23FFFFFF' stroke-width='10'/%3E%3C/svg%3E" />
   <p><em>Your identity in cards</em></p>
 </div>
 
