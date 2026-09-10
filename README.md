@@ -1,4 +1,3 @@
-```markdown
 # Soul
 
 <div align="center">
@@ -234,5 +233,4 @@ El color de acento del reproductor (`--track-accent`) se calcula dinámicamente 
 ## Licencia
 
 Proyecto personal. Úsalo, modifícalo y hazlo tuyo — pero respeta las credenciales de Spotify y no subas tu `.env` al repositorio.
-
-Hecho con ❤︎ — tu música, tu identidad, una sola tarjeta.
+Hecho con ❤︎
