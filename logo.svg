@@ -1,4 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="120" height="120">
-  <circle cx="85" cy="115" r="45" fill="none" stroke="#4B0082" stroke-width="10"/>
-  <circle cx="115" cy="85" r="45" fill="none" stroke="#C6B8FF" stroke-width="10"/>
+<svg width="360" height="250" viewBox="0 0 360 250" xmlns="http://www.w3.org/2000/svg">
+  <!-- 
+    Imagen 2: Círculo + dos barras redondeadas superpuestas
+    Cada sección es un elemento independiente.
+    Cambia el atributo "fill" de cada uno para modificar su color.
+  -->
+  
+  <!-- Sección 1: barra inferior (color oscuro) -->
+  <rect id="barra-inferior"
+        x="80" y="145"
+        width="270" height="85"
+        rx="42" ry="42"
+        fill="#002060"/>
+  
+  <!-- Sección 2: barra superior (color teal) -->
+  <rect id="barra-superior"
+        x="80" y="35"
+        width="270" height="90"
+        rx="42" ry="42"
+        fill="#156082"/>
+  
+  <!-- Sección 3: círculo (color teal por defecto, con borde blanco) -->
+  <circle id="circulo"
+          cx="112" cy="112"
+          r="105"
+          fill="#156082"
+          stroke="#FFFFFF"
+          stroke-width="9"/>
 </svg>
