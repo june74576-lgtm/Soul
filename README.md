@@ -1,7 +1,7 @@
 # Soul
 
 <div align="center">
-  <img src="logo.svg" alt="Soul" width="120" />
+  <img src="logo.svg" width="120" />
   <p><em>Your identity in cards</em></p>
 </div>
 
